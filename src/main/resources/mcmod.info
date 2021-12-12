@@ -1,16 +1,16 @@
 [
 {
-  "modid": "CSP",
-  "name": "CustomStuff3Plugin",
-  "description": "Create for YaoYue",
+  "modid": "da",
+  "name": "DreamAchievement",
+  "description": "Create for MagAcademy modpack",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Dr__fdf"],
+  "authorList": ["Ventivu"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["MagCore"]
 }
 ]
