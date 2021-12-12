@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CSP",
+  "name": "CustomStuff3Plugin",
+  "description": "Create for YaoYue",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dr__fdf"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
